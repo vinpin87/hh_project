@@ -5,5 +5,7 @@
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         }
-    ]
+    ],
+    "python.defaultInterpreterPath": "/home/vinayp/dev/py_proj/myenv/bin/python",
+    "python.terminal.activateEnvironment": true
 }
